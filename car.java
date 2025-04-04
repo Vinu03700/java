@@ -4,5 +4,7 @@ public class car
     {
         system.out.println("Hello Car");
          system.out.println("Hello Bike");
+                 system.out.println("Bike");
+
     }
 }
